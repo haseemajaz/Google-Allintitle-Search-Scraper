@@ -12,7 +12,7 @@ Follow these steps to set up and use the Google Allintitle Search Scraper:
 **Step 1:** Clone the Repository
 Clone this repository to your local machine using the following command:
 
-_**git clone https://github.com/your-username/your-repository.git**_
+_**git clone https://github.com/haseemajaz/Google-Allintitle-Search-Scraper.git**_
 
 **Step 2:** Install Dependencies
 Make sure you have Python 3.x installed on your system. Install the required libraries using pip:
