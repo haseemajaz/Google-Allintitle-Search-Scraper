@@ -36,16 +36,16 @@ _**python google_allintitle_scraper.py**_
 
 The script will prompt you to enter the path to the input file (e.g., keywords.txt). After entering the path, it will start scraping Google search results for each keyword.
 
-Step 6: View the Results
+**Step 6:** View the Results
 Once the script completes all queries, it will save the results to an Excel file named allintitle_results.xlsx in the same directory as the script. You can open this file to analyze the data.
 
-Contributing
+**Contributing**
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
-License
+**License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+**Acknowledgments**
 This script uses the Google Custom Search JSON API to retrieve search results.
 Thank you for using the Google Allintitle Search Scraper! If you find it helpful, please consider giving it a star on GitHub and sharing it with others.
 
